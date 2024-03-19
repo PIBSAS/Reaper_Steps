@@ -1,5 +1,5 @@
 cd $HOME/.config/REAPER/
-wget -c https://sws-extension.org/download/pre-release/sws-2.14.0.0-Linux-aarch64-8a12353a.tar.xz
+wget -c "https://www.sws-extension.org/download/pre-release/sws-2.14.0.1-Linux-aarch64-216638bb.tar.xz"
 tar -Jxvf sws*.tar.xz
 rm sws*
 cd
